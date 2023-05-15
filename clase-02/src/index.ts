@@ -61,3 +61,4 @@ let coche: Producto = {
 }
 
 console.log(`Coche: ${coche.nombre} precio: ${coche.precio}$`);
+
