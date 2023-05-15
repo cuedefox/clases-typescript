@@ -1,4 +1,4 @@
-import { ITarea, Nivel } from "./interfaces/itarea.interface";
+import { ITarea, Nivel } from "./interfaces/ITarea.interface";
 
 export class Curso {
     constructor(nombre: string, horas: number) {

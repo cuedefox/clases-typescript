@@ -2,7 +2,7 @@ import {deleteAllCookies, deleteCookie, getCookieValue, setCookie} from "cookies
 import {Curso, Persona, Empleado, Jefe, Programar} from "./models/clases";
 import {Estudiante} from "./models/clases";
 import { LISTA_CURSOS } from "./mock/cursos.mock";
-import { Nivel, ITarea } from "./models/interfaces/itarea.interface";
+import { Nivel, ITarea } from "./models/interfaces/ITarea.interface";
 
 console.log("Hi Typescript by Rodrigo Benjamín Vergara");
 
